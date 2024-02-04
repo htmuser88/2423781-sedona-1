@@ -2,6 +2,7 @@
 
 * Студент: [htmuser88](https://up.htmlacademy.ru/htmlcss-individual/1/user/2423781).
 * Наставник: `Вадим Рахманов`.
+https://htmlacademy.ru/profile/flander
 
 ---
 
