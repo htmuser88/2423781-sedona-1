@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss-individual/1/user/2423781).
-* Наставник: `Неизвестно`.
+* Студент: [htmuser88](https://up.htmlacademy.ru/htmlcss-individual/1/user/2423781).
+* Наставник: `Вадим Рахманов`.
 
 ---
 
@@ -14,7 +14,7 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 
 #### 1. Зарегистрируйтесь на Гитхабе
 
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
+Готово
 
 #### 2. Создайте форк
 
